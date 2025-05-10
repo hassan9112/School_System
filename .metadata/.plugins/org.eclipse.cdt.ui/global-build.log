@@ -1,0 +1,23 @@
+20:04:01 **** Rebuild of configuration Debug for project project ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o project.o "..\\project.c" 
+gcc -o project.exe project.o 
+Info: Nothing to build for project
+20:06:20 **** Incremental Build of configuration Debug for project project ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o project.o "..\\project.c" 
+gcc -o project.exe project.o 
+Info: Nothing to build for project
+Info: Nothing to build for project
+20:40:08 **** Incremental Build of configuration Debug for project project ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o project.o "..\\project.c" 
+gcc -o project.exe project.o 
+20:43:26 **** Incremental Build of configuration Debug for project project ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o project.o "..\\project.c" 
+gcc -o project.exe project.o 
+23:14:25 **** Incremental Build of configuration Debug for project project ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o project.o "..\\project.c" 
+gcc -o project.exe project.o 
